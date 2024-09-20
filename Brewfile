@@ -10,3 +10,5 @@ brew "qpdf"
 brew "telnet"
 brew "tmux"
 brew "uade"
+# Pillow replaces Python PIL
+brew "pillow"
