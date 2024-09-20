@@ -3,6 +3,6 @@
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-curl -O https://github.com/dazdaz/homebrew/edit/main/Brewfile
+curl -O https://raw.githubusercontent.com/dazdaz/homebrew/main/Brewfile
 brew bundle
 ```
